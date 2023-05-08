@@ -4,3 +4,17 @@
 body {
     background-image: url("../img/Diseño\ sin\ título.png");
 }
+.avatar {
+    margin-top: 10px;
+    margin-left: 2rem;
+    height: 160px;
+    width: 160px;
+    background-repeat: no-repeat;
+    background-position: 50%;
+    border-radius: 50%;
+    background-size: 100% auto;
+}
+ h4, h5{
+    text-align: center;
+
+} 
